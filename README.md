@@ -1,8 +1,6 @@
 ***ePortfolio README FILE***
 Created By: Evan Bucholski
-Username: ebuchols
-StudentID: 1226299
-Due Date: November 29th, 2024
+
 
 ***HOW TO RUN THE PROGRAM***
 
